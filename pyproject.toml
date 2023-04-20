@@ -7,7 +7,7 @@ authors = [
     "Alexander Kavanaugh <alex@kavdev.io>",
     "Jerome Leclanche <jerome@leclan.ch>",
 ]
-readme = "docs/README.md"
+readme = "README.md"
 homepage = "https://dj-stripe.dev"
 repository = "https://github.com/dj-stripe/dj-stripe"
 documentation = "https://dj-stripe.github.io/dj-stripe/"
